@@ -9,6 +9,8 @@ I had taken the Logic from [How to Solve AES Mix Column Transformation by Chirag
 
 AES => Advanced Encryption Standard
 ---
+<img align="left" width="200" height="200" src="https://media.giphy.com/media/fRYV4ck2DRYpBmpG1f/giphy.gif">
+
 Introduction of AES :
 AES uses 128 bits of plain text. AES consists of multiple rounds of processing different key bits like,
 128 bits key – perform 10 rounds of encryption 
@@ -18,3 +20,6 @@ AES uses 128 bits of plain text. AES consists of multiple rounds of processing d
 For encryption, each round consists of the following four steps: Sub Bytes, 
 Shift Rows, Mix Columns, Add Round Key.
 Above steps also called AES transformation function. 
+
+
+https://media.giphy.com/media/fRYV4ck2DRYpBmpG1f/giphy.gif
